@@ -1,8 +1,8 @@
 # Hi!! 👋
 
-My name is Barbara Irarrazaval 🐉 I'm a Software and Computational Engineer, as well as an Industrial Engineer from Pontificia Universidad Católica de Chile.
+My name is Barbara Irarrazaval 🐉 I'm a Software, Computer Engineer and Industrial Engineer from Pontificia Universidad Católica de Chile 🇨🇱 and was a Computer Science exchange student at USCS :us: (go slugs!). 
 
-Currently working at <a href="https://www.buk.cl">Buk</a> as a Full-Stack Software Engineer L2. 
+Currently working at <a href="https://www.buk.cl">Buk</a> as a Full-Stack Software Engineer L2 :woman_technologist:. 
 
 <p1>Check my general portfolio <a href="https://barbaraim.github.io">here</a>!</p1>
 <p1>If you want to know more about my p5.js portfolio, you can check it out <a href="https://barbaraim.github.io">here</a> :)</p1>
