@@ -1,4 +1,6 @@
-# Hi!! My name is Barbara Irarrazaval
+# Hi!! 
+
+My name is Barbara Irarrazaval 🐉
 
 I'm a Software and Computational Engineer, as well as an Industrial Engineer from Pontificia Universidad Católica de Chile.
 
